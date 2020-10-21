@@ -1,0 +1,29 @@
+
+  body{
+      background-color: rgba(247, 245, 245, 0.932);
+      
+  }
+  .nav-icon{
+    font-size: 2rem;
+    color: lightslategray;
+  }
+ 
+  .icon-container{
+    flex: 1;
+  }
+
+
+  h2{
+    margin-bottom: 2px;
+    font-size: x-large;
+    color: rgb(0, 0, 0);
+  }
+
+  h5{
+    font-weight: normal;
+    font-size: small;
+    color: rgb(0, 0, 0);
+  }
+
+
+

@@ -1,0 +1,28 @@
+
+  body{
+      background-color: rgba(223, 220, 187, 0.856);
+      
+  }
+  .nav-icon{
+    font-size: 2rem;
+  }
+  .header-label{
+    font-size: 2rem;
+  }
+  .logo-icon{
+    font-size: 4rem;
+  }
+  .product-icon {
+    font-size: 2rem;
+  }
+
+  .icon-container{
+    flex: 1;
+  }
+  .icon-container + .icon-container{
+    margin-left: 0.5rem;
+  }
+
+  .product-icon-container{
+    min-width: 65px;
+  }
